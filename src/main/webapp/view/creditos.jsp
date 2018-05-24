@@ -107,37 +107,46 @@
                                 </select>
                             </div>                           
                         </div>  
-                        <div class="form-row">
+                        <br>
                             <div class="col">
                                 <button name="accion" value="crear" type="submit" 
                                         class="btn btn-primary">
                                     Registrar
                                 </button>
                             </div>
+                        <br>
+                        
                             <div class="col">
                                 <button name="accion" value="listar" type="submit" 
                                         class="btn btn-primary">
                                     Listar Usuarios
                                 </button>
                             </div>
-                            
-                            
+                            <br>
+                             <div class="col">
                                 <button name="accion" value="creditoMasUtilizado" type="submit" 
                                         class="btn btn-primary">
                                     Credito Más Utilizado
                                 </button>
+                             </div>
+                            <br>
+                            <div class="col">
                             <button name="accion" value="AcumuladoMayor" type="submit" 
                                         class="btn btn-primary">
                                     Acumulado Mayor/Valor
                                 </button>
-                            
+                            </div>
+                            <br>
+                            <div class="col">
                             <button name="accion" value="personasPrestan" type="submit" 
                                         class="btn btn-primary">
                                     ¿Quien presta mas?
                                 </button>
+                            </div>
+                            <br>
                             
                     </form>
-                </div>
+                
             </div>
         </main>
 
